@@ -2,7 +2,7 @@
 
 --- Work in Progress ---
 
-This project aims to show my skills on Data Analysis by using the famous Sakila database. 
+This project aims to show my skills on Data Analysis by using the famous Sakila database. I will use the Numpy, Matplotlib and Pandas Python libraries, as well as SQL to retrive data. 
 
 In this project i will:
 
